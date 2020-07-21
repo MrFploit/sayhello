@@ -16,4 +16,4 @@ $ git clone https://github.com/it4min/sayhello </br>
 $ cd sayhello
 $ bash sayhello.sh
 </pre></code>
-<a href="t.me/LinuxArmy "> کانال تلگرام </ a>
+<a href="t.me/LinuxArmy "> Telegram Channel  </ a>
